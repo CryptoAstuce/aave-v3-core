@@ -1,3 +1,7 @@
+## Parcours francais
+
+Une lecture commentee d'Aave v3 (Lending) en francais, un mecanisme par chapitre, est disponible dans docs/fr/. Le sommaire se trouve dans docs/fr/README.md. Rien n'a ete installe, compile ni execute : ce parcours est purement documentaire.
+
 # ⚠️ This repository is DEPRECATED and no longer maintained ⚠️
 
 For the latest Aave V3 code visit the V3 Origin Repository [here](https://github.com/aave-dao/aave-v3-origin).
